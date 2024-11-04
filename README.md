@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehulrajranjan/codehub/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/mehulrajranjan/codehub/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulrajranjan/codehub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mehulrajranjan/codehub/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulrajranjan/codehub/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulrajranjan/codehub/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/mehulrajranjan/codehub/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
