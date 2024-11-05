@@ -60,6 +60,7 @@
 | [0015-3sum](https://github.com/mehulrajranjan/codehub/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mehulrajranjan/codehub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mehulrajranjan/codehub/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/mehulrajranjan/codehub/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehulrajranjan/codehub/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mehulrajranjan/codehub/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
